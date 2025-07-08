@@ -37,7 +37,7 @@ cd candidate-001-bloggies-trends-api
 npm install
 npm run dev
 ```
-###🌐 Public Deployment
+### 🌐 Public Deployment
 ---
 candidate-001-bloggies-trends-api.vercel.app
 
